@@ -1,0 +1,21 @@
+head {
+  background-color: black;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  text-align: center;
+}
+
+#subheading {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#title1 {
+  font-family: verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
