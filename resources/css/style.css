@@ -10,20 +10,26 @@ body {
 
 p {
   font-family:verdana;
+  color:white;
 }
-#subheading {
+
+#applink a {
   color: aquamarine;
   font-size: 16px;
+  font-family: verdana;
 }
 
 #title1 {
   font-weight: normal;
   font-size: 50px;
-  color: white;
 }
 
 #title2 {
   font-weight: 300px;
   font-size: 42px;
-  color: white;
+}
+
+#trademark p {
+  text-align: right;
+  color: gray;
 }
